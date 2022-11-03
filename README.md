@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Preceptor: A smart glass for Visually Impaired Person**
 
-- 🌱 I’m currently learning **React Js, AI**
+- 🌱 I’m currently learning **TensorFlow and AI**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
